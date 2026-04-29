@@ -13,3 +13,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added healthcheck endpoint stub
 - Verified API endpoint response schema
 - Tidied up project structure
+
+## 2026-04-29
+- Refactored module structure for clarity
+- Checked for memory leaks in long-running path
+- Investigated performance bottleneck, noted findings
