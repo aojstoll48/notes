@@ -18,3 +18,6 @@ Personal development log — notes, findings, and ongoing work.
 - Refactored module structure for clarity
 - Checked for memory leaks in long-running path
 - Investigated performance bottleneck, noted findings
+
+## 2026-05-13
+- Resolved TODO items from previous session
